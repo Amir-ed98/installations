@@ -7,7 +7,7 @@ This repository contains **Bash scripts** to automate the installation of **Pyth
 ## 📌 Available Scripts
 
 ### 1️⃣ Install Python (Multiple Versions)
-📄 **Script:** [`install_python.sh`](install_python.sh)  
+📄 **Script:** [`python_installation.sh`](python_installation.sh)  
 📦 Installs **Python** versions (`3.8 → 3.12`) with **pip** and **virtual environments**.  
 
 #### 🔧 **How to Use**
