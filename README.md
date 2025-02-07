@@ -1,11 +1,10 @@
 ### 📜 **README.md**  
 
-```
+
 # 🚀 Automated Installations for Python, R, and RStudio on Ubuntu 24.04
 
 This repository contains **Bash scripts** to automate the installation of **Python**, **R**, and **RStudio** on **Ubuntu 24.04**. These scripts handle dependency installation, version management, and setup configurations for seamless use.
 
----
 
 ## 📌 Available Scripts
 
