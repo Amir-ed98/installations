@@ -63,9 +63,6 @@ Feel free to **fork**, **modify**, and **contribute**! If you find any issues, s
 
 
 🚀 Happy Coding! 🔥  
-```
-
----
 
 ### **📢 What This README Covers**
 ✅ **Installation instructions** for Python, R, and RStudio  
